@@ -1,1 +1,1 @@
-funny Emojies dictionary using React js 
+Funny Emojies dictionary using React js Css and Html
